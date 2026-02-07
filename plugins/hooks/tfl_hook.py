@@ -10,7 +10,7 @@ class TfLHook(BaseHook):
 
     def get_data(self, endpoint, params=None):
         # Lấy Key từ Airflow Variable (Admin -> Variables trên UI)
-        from airflow.models import Variable
+        from airflow.sdk import Variable
         api_key = Variable.get("tfl_app_key") 
         
         base_url = f"https://api.tfl.gov.uk/{endpoint}"
