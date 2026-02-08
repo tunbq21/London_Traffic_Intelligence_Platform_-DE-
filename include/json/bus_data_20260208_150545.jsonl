@@ -1,0 +1,130 @@
+{"vehicleId":"LTZ1170","stationName":"Kennington Park Post Office","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1604,"towards":"Parliament Square Or Waterloo"}
+{"vehicleId":"LTZ1627","stationName":"St Mark's Church","lineId":"159","lineName":"159","direction":"inbound","timeToStation":313,"towards":"Streatham Hill"}
+{"vehicleId":"LTZ1629","stationName":"New Park Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":867,"towards":"Camberwell Or Kennington Church"}
+{"vehicleId":"LTZ1625","stationName":"Brixton Road \/ Brixton Police Station","lineId":"159","lineName":"159","direction":"inbound","timeToStation":139,"towards":"Streatham Hill"}
+{"vehicleId":"LTZ1625","stationName":"New Park Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":726,"towards":"Clapham Park Or Streatham"}
+{"vehicleId":"LTZ1629","stationName":"Christchurch Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":745,"towards":"Brixton Or Clapham Common"}
+{"vehicleId":"LTZ1170","stationName":"Kennington Lane","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1757,"towards":"Parliament Square"}
+{"vehicleId":"LTZ1154","stationName":"Streatham Station","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1203,"towards":"Pollards Hill Or Streatham Hill"}
+{"vehicleId":"LTZ1463","stationName":"Lambeth North Station","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1046,"towards":"Westminster Or Waterloo"}
+{"vehicleId":"LTZ1024","stationName":"St Leonard's Church","lineId":"159","lineName":"159","direction":"outbound","timeToStation":591,"towards":"Balham, Streatham Hill Or Tooting"}
+{"vehicleId":"LTZ1170","stationName":"Loughborough Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1036,"towards":"Kennington Oval"}
+{"vehicleId":"LTZ1024","stationName":"Brixton Station","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1820,"towards":"Kennington Oval"}
+{"vehicleId":"LTZ1627","stationName":"Streatham Hill \/ Christchurch Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1631,"towards":"Crystal Palace, Norbury Or Tooting"}
+{"vehicleId":"LTZ1170","stationName":"Hillyard Street","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1175,"towards":"Elephant & Castle Or Imperial War Museum"}
+{"vehicleId":"LTZ1170","stationName":"Lambeth Town Hall","lineId":"159","lineName":"159","direction":"outbound","timeToStation":753,"towards":"Kennington Church"}
+{"vehicleId":"LTZ1463","stationName":"Vassall Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":491,"towards":"Elephant & Castle Or Imperial War Museum"}
+{"vehicleId":"LTZ1627","stationName":"Loughborough Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":625,"towards":"Herne Hill, Streatham Hill Or Tulse Hill"}
+{"vehicleId":"LTZ1171","stationName":"Kennington Lane","lineId":"159","lineName":"159","direction":"outbound","timeToStation":291,"towards":"Parliament Square"}
+{"vehicleId":"LTZ1627","stationName":"Brixton Station","lineId":"159","lineName":"159","direction":"inbound","timeToStation":971,"towards":"Streatham Hill"}
+{"vehicleId":"LTZ1614","stationName":"Rush Common","lineId":"159","lineName":"159","direction":"inbound","timeToStation":45,"towards":"Clapham Park Or Streatham"}
+{"vehicleId":"LTZ1625","stationName":"Brixton Station","lineId":"159","lineName":"159","direction":"inbound","timeToStation":296,"towards":"Streatham Hill"}
+{"vehicleId":"LTZ1627","stationName":"Telford Avenue","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1705,"towards":"Crystal Palace, Norbury Or Tooting"}
+{"vehicleId":"LTZ1614","stationName":"Kingscourt Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":771,"towards":"Mitcham, Norbury Or Tooting"}
+{"vehicleId":"LTZ1024","stationName":"Becmead Avenue","lineId":"159","lineName":"159","direction":"outbound","timeToStation":765,"towards":"Brixton Or Tulse Hill"}
+{"vehicleId":"LTZ1170","stationName":"Holmewood Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":347,"towards":"Camberwell Or Kennington Church"}
+{"vehicleId":"LTZ1024","stationName":"Kingscourt Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":822,"towards":"Clapham Common, Brixton Or Tulse Hill"}
+{"vehicleId":"LTZ1625","stationName":"Streatham Station","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1610,"towards":"null"}
+{"vehicleId":"LTZ1170","stationName":"Jebb Avenue \/ Brixton Prison","lineId":"159","lineName":"159","direction":"outbound","timeToStation":480,"towards":"Camberwell Or Kennington Church"}
+{"vehicleId":"LTZ1627","stationName":"Villa Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":688,"towards":"Herne Hill, Streatham Hill Or Tulse Hill"}
+{"vehicleId":"LTZ1625","stationName":"Streatham Hill Stn  \/ Streatham Hill","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1030,"towards":"Crystal Palace, Norbury Or Tooting"}
+{"vehicleId":"LTZ1625","stationName":"Jebb Avenue \/ Brixton Prison","lineId":"159","lineName":"159","direction":"inbound","timeToStation":652,"towards":"Clapham Park Or Streatham"}
+{"vehicleId":"LTZ1625","stationName":"Brixton Water Lane","lineId":"159","lineName":"159","direction":"inbound","timeToStation":485,"towards":"Clapham Park Or Streatham"}
+{"vehicleId":"LTZ1627","stationName":"New Park Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1446,"towards":"Clapham Park Or Streatham"}
+{"vehicleId":"LTZ1627","stationName":"Jebb Avenue \/ Brixton Prison","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1363,"towards":"Clapham Park Or Streatham"}
+{"vehicleId":"LTZ1625","stationName":"Leigham Court Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1088,"towards":"Norbury"}
+{"vehicleId":"LTZ1614","stationName":"Streatham Station","lineId":"159","lineName":"159","direction":"inbound","timeToStation":962,"towards":"null"}
+{"vehicleId":"LTZ1627","stationName":"Groveway","lineId":"159","lineName":"159","direction":"inbound","timeToStation":534,"towards":"Herne Hill, Streatham Hill Or Tulse Hill"}
+{"vehicleId":"LTZ1629","stationName":"Mount Ephraim Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":451,"towards":"Clapham Common, Brixton Or Tulse Hill"}
+{"vehicleId":"LTZ1170","stationName":"Rush Common","lineId":"159","lineName":"159","direction":"outbound","timeToStation":625,"towards":"Camberwell Or Kennington Church"}
+{"vehicleId":"LTZ1627","stationName":"Blenheim Gardens","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1304,"towards":"Streatham"}
+{"vehicleId":"LTZ1154","stationName":"St Leonard's Church","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1325,"towards":"Balham, Streatham Hill Or Tooting"}
+{"vehicleId":"LTZ1170","stationName":"Fitzalan Street","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1804,"towards":"Parliament Square Or Waterloo"}
+{"vehicleId":"LTZ1629","stationName":"Hillyard Street","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1682,"towards":"Elephant & Castle Or Imperial War Museum"}
+{"vehicleId":"LTZ1170","stationName":"Windmill Row","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1705,"towards":"Parliament Square Or Waterloo"}
+{"vehicleId":"LTZ1625","stationName":"Blenheim Gardens","lineId":"159","lineName":"159","direction":"inbound","timeToStation":552,"towards":"Streatham"}
+{"vehicleId":"LTZ1627","stationName":"Kennington Park Post Office","lineId":"159","lineName":"159","direction":"inbound","timeToStation":102,"towards":"Brixton"}
+{"vehicleId":"LTZ1629","stationName":"Becmead Avenue","lineId":"159","lineName":"159","direction":"outbound","timeToStation":291,"towards":"Brixton Or Tulse Hill"}
+{"vehicleId":"LTZ1614","stationName":"Leigham Court Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":675,"towards":"Norbury"}
+{"vehicleId":"LTZ1629","stationName":"Rush Common","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1156,"towards":"Camberwell Or Kennington Church"}
+{"vehicleId":"LTZ1154","stationName":"Mount Ephraim Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1602,"towards":"Clapham Common, Brixton Or Tulse Hill"}
+{"vehicleId":"LTZ1627","stationName":"Holmewood Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1499,"towards":"Clapham Park, Streatham Common Or Tooting"}
+{"vehicleId":"LTZ1024","stationName":"Holmewood Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1274,"towards":"Camberwell Or Kennington Church"}
+{"vehicleId":"LTZ1614","stationName":"Telford Avenue","lineId":"159","lineName":"159","direction":"inbound","timeToStation":576,"towards":"Crystal Palace, Norbury Or Tooting"}
+{"vehicleId":"LTZ1629","stationName":"St Leonard's Church","lineId":"159","lineName":"159","direction":"outbound","timeToStation":176,"towards":"Balham, Streatham Hill Or Tooting"}
+{"vehicleId":"LTZ1625","stationName":"Rush Common","lineId":"159","lineName":"159","direction":"inbound","timeToStation":419,"towards":"Clapham Park Or Streatham"}
+{"vehicleId":"LTZ1024","stationName":"Mount Ephraim Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":863,"towards":"Clapham Common, Brixton Or Tulse Hill"}
+{"vehicleId":"LTZ1614","stationName":"Mount Ephraim Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":725,"towards":"Mitcham, Norbury Or Tooting"}
+{"vehicleId":"LTZ1170","stationName":"Villa Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1096,"towards":"Elephant & Castle Or Imperial War Museum"}
+{"vehicleId":"LTZ1024","stationName":"Jebb Avenue \/ Brixton Prison","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1380,"towards":"Camberwell Or Kennington Church"}
+{"vehicleId":"LTZ1463","stationName":"Loughborough Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":283,"towards":"Kennington Oval"}
+{"vehicleId":"LTZ1614","stationName":"Streatham Hill \/ Christchurch Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":496,"towards":"Crystal Palace, Norbury Or Tooting"}
+{"vehicleId":"LTZ1625","stationName":"Becmead Avenue","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1191,"towards":"Norbury"}
+{"vehicleId":"LTZ1627","stationName":"Brixton Water Lane","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1229,"towards":"Clapham Park Or Streatham"}
+{"vehicleId":"LTZ1629","stationName":"Villa Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1352,"towards":"Elephant & Castle Or Imperial War Museum"}
+{"vehicleId":"LTZ1629","stationName":"Jebb Avenue \/ Brixton Prison","lineId":"159","lineName":"159","direction":"outbound","timeToStation":928,"towards":"Camberwell Or Kennington Church"}
+{"vehicleId":"LTZ1463","stationName":"Kennington Park Post Office","lineId":"159","lineName":"159","direction":"outbound","timeToStation":689,"towards":"Parliament Square Or Waterloo"}
+{"vehicleId":"LTZ1463","stationName":"Hillyard Street","lineId":"159","lineName":"159","direction":"outbound","timeToStation":395,"towards":"Elephant & Castle Or Imperial War Museum"}
+{"vehicleId":"LTZ1627","stationName":"Brixton Road \/ Brixton Police Station","lineId":"159","lineName":"159","direction":"inbound","timeToStation":784,"towards":"Streatham Hill"}
+{"vehicleId":"LTZ1629","stationName":"Holmewood Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":810,"towards":"Camberwell Or Kennington Church"}
+{"vehicleId":"LTZ1463","stationName":"Kennington Road \/ Imperial War Museum","lineId":"159","lineName":"159","direction":"outbound","timeToStation":978,"towards":"Waterloo Or Parliament Sq Via Westminster Bridge"}
+{"vehicleId":"LTZ1170","stationName":"Groveway","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1119,"towards":"Elephant & Castle Or Imperial War Museum"}
+{"vehicleId":"LTZ1463","stationName":"St Mark's Church","lineId":"159","lineName":"159","direction":"outbound","timeToStation":592,"towards":"Elephant & Castle, Lambeth Bdg Or Lambeth Nth"}
+{"vehicleId":"LTZ1171","stationName":"Kennington Park Post Office","lineId":"159","lineName":"159","direction":"outbound","timeToStation":133,"towards":"Parliament Square Or Waterloo"}
+{"vehicleId":"LTZ1154","stationName":"St Leonard's Church","lineId":"159","lineName":"159","direction":"inbound","timeToStation":179,"towards":"Crystal Palace, Norbury Or Pollards Hill"}
+{"vehicleId":"LTZ1629","stationName":"Blenheim Gardens","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1013,"towards":"Camberwell Or Kennington Church"}
+{"vehicleId":"LTZ1170","stationName":"Christchurch Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":308,"towards":"Brixton Or Clapham Common"}
+{"vehicleId":"LTZ1629","stationName":"Kingscourt Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":345,"towards":"Clapham Common, Brixton Or Tulse Hill"}
+{"vehicleId":"LTZ1170","stationName":"Blenheim Gardens","lineId":"159","lineName":"159","direction":"outbound","timeToStation":576,"towards":"Camberwell Or Kennington Church"}
+{"vehicleId":"LTZ1170","stationName":"New Park Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":379,"towards":"Camberwell Or Kennington Church"}
+{"vehicleId":"LTZ1463","stationName":"Lower Marsh","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1118,"towards":"Pimlico Or Trafalgar Square"}
+{"vehicleId":"LTZ1614","stationName":"St Leonard's Church","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1065,"towards":"Crystal Palace, Norbury Or Pollards Hill"}
+{"vehicleId":"LTZ1024","stationName":"Christchurch Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1206,"towards":"Brixton Or Clapham Common"}
+{"vehicleId":"LTZ1024","stationName":"Blenheim Gardens","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1488,"towards":"Camberwell Or Kennington Church"}
+{"vehicleId":"LTZ1154","stationName":"Becmead Avenue","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1493,"towards":"Brixton Or Tulse Hill"}
+{"vehicleId":"LTZ1614","stationName":"Brixton Water Lane","lineId":"159","lineName":"159","direction":"inbound","timeToStation":144,"towards":"Clapham Park Or Streatham"}
+{"vehicleId":"LTZ1171","stationName":"Windmill Row","lineId":"159","lineName":"159","direction":"outbound","timeToStation":234,"towards":"Parliament Square Or Waterloo"}
+{"vehicleId":"LTZ1463","stationName":"Brixton Road \/ Brixton Police Station","lineId":"159","lineName":"159","direction":"outbound","timeToStation":135,"towards":"Lambeth Bridge Or Lambeth North"}
+{"vehicleId":"LTZ1171","stationName":"Lambeth North Station","lineId":"159","lineName":"159","direction":"outbound","timeToStation":482,"towards":"Westminster Or Waterloo"}
+{"vehicleId":"LTZ1463","stationName":"Villa Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":196,"towards":"Elephant & Castle Or Imperial War Museum"}
+{"vehicleId":"LTZ1024","stationName":"Rush Common","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1586,"towards":"Camberwell Or Kennington Church"}
+{"vehicleId":"LTZ1170","stationName":"Vassall Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1290,"towards":"Elephant & Castle Or Imperial War Museum"}
+{"vehicleId":"LTZ1614","stationName":"Jebb Avenue \/ Brixton Prison","lineId":"159","lineName":"159","direction":"inbound","timeToStation":268,"towards":"Clapham Park Or Streatham"}
+{"vehicleId":"LTZ1024","stationName":"New Park Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1322,"towards":"Camberwell Or Kennington Church"}
+{"vehicleId":"LTZ1625","stationName":"Streatham Hill \/ Christchurch Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":848,"towards":"Crystal Palace, Norbury Or Tooting"}
+{"vehicleId":"LTZ1614","stationName":"New Park Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":351,"towards":"Clapham Park Or Streatham"}
+{"vehicleId":"LTZ1614","stationName":"Becmead Avenue","lineId":"159","lineName":"159","direction":"inbound","timeToStation":874,"towards":"Norbury"}
+{"vehicleId":"LTZ1629","stationName":"Brixton Road \/ Brixton Police Station","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1337,"towards":"Lambeth Bridge Or Lambeth North"}
+{"vehicleId":"LTZ1629","stationName":"Loughborough Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1409,"towards":"Kennington Oval"}
+{"vehicleId":"LTZ1625","stationName":"Villa Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":56,"towards":"Herne Hill, Streatham Hill Or Tulse Hill"}
+{"vehicleId":"LTZ1625","stationName":"Kingscourt Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1124,"towards":"Mitcham, Norbury Or Tooting"}
+{"vehicleId":"LTZ1627","stationName":"Rush Common","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1158,"towards":"Clapham Park Or Streatham"}
+{"vehicleId":"LTZ1463","stationName":"Kennington Lane","lineId":"159","lineName":"159","direction":"outbound","timeToStation":841,"towards":"Parliament Square"}
+{"vehicleId":"LTZ1171","stationName":"Kennington Road \/ Imperial War Museum","lineId":"159","lineName":"159","direction":"outbound","timeToStation":397,"towards":"Waterloo Or Parliament Sq Via Westminster Bridge"}
+{"vehicleId":"LTZ1171","stationName":"Fitzalan Street","lineId":"159","lineName":"159","direction":"outbound","timeToStation":360,"towards":"Parliament Square Or Waterloo"}
+{"vehicleId":"LTZ1625","stationName":"Telford Avenue","lineId":"159","lineName":"159","direction":"inbound","timeToStation":932,"towards":"Crystal Palace, Norbury Or Tooting"}
+{"vehicleId":"LTZ1627","stationName":"Streatham Hill Stn  \/ Streatham Hill","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1805,"towards":"Crystal Palace, Norbury Or Tooting"}
+{"vehicleId":"LTZ1629","stationName":"Brixton Station","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1218,"towards":"Kennington Oval"}
+{"vehicleId":"LTZ1170","stationName":"St Mark's Church","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1386,"towards":"Elephant & Castle, Lambeth Bdg Or Lambeth Nth"}
+{"vehicleId":"LTZ1625","stationName":"St Leonard's Church","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1342,"towards":"Crystal Palace, Norbury Or Pollards Hill"}
+{"vehicleId":"LTZ1629","stationName":"Lambeth Town Hall","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1051,"towards":"Kennington Church"}
+{"vehicleId":"LTZ1629","stationName":"Groveway","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1625,"towards":"Elephant & Castle Or Imperial War Museum"}
+{"vehicleId":"LTZ1614","stationName":"Streatham Hill Stn  \/ Streatham Hill","lineId":"159","lineName":"159","direction":"inbound","timeToStation":586,"towards":"Crystal Palace, Norbury Or Tooting"}
+{"vehicleId":"LTZ1024","stationName":"Streatham Station","lineId":"159","lineName":"159","direction":"outbound","timeToStation":483,"towards":"Pollards Hill Or Streatham Hill"}
+{"vehicleId":"LTZ1463","stationName":"Fitzalan Street","lineId":"159","lineName":"159","direction":"outbound","timeToStation":910,"towards":"Parliament Square Or Waterloo"}
+{"vehicleId":"LTZ1024","stationName":"Lambeth Town Hall","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1706,"towards":"Kennington Church"}
+{"vehicleId":"LTZ1627","stationName":"Vassall Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":471,"towards":"Herne Hill, Streatham Hill Or Tulse Hill"}
+{"vehicleId":"LTZ1154","stationName":"Becmead Avenue","lineId":"159","lineName":"159","direction":"inbound","timeToStation":2,"towards":"Norbury"}
+{"vehicleId":"LTZ1463","stationName":"Groveway","lineId":"159","lineName":"159","direction":"outbound","timeToStation":309,"towards":"Elephant & Castle Or Imperial War Museum"}
+{"vehicleId":"LTZ1625","stationName":"Mount Ephraim Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":1112,"towards":"Mitcham, Norbury Or Tooting"}
+{"vehicleId":"LTZ1629","stationName":"Streatham Station","lineId":"159","lineName":"159","direction":"outbound","timeToStation":55,"towards":"Pollards Hill Or Streatham Hill"}
+{"vehicleId":"LTZ1627","stationName":"Windmill Row","lineId":"159","lineName":"159","direction":"inbound","timeToStation":18,"towards":"Brixton"}
+{"vehicleId":"LTZ1170","stationName":"Brixton Station","lineId":"159","lineName":"159","direction":"outbound","timeToStation":902,"towards":"Kennington Oval"}
+{"vehicleId":"LTZ1170","stationName":"Brixton Road \/ Brixton Police Station","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1035,"towards":"Lambeth Bridge Or Lambeth North"}
+{"vehicleId":"LTZ1614","stationName":"Holmewood Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":402,"towards":"Clapham Park, Streatham Common Or Tooting"}
+{"vehicleId":"LTZ1614","stationName":"Blenheim Gardens","lineId":"159","lineName":"159","direction":"inbound","timeToStation":212,"towards":"Streatham"}
+{"vehicleId":"LTZ1154","stationName":"Kingscourt Road","lineId":"159","lineName":"159","direction":"outbound","timeToStation":1542,"towards":"Clapham Common, Brixton Or Tulse Hill"}
+{"vehicleId":"LTZ1171","stationName":"Lower Marsh","lineId":"159","lineName":"159","direction":"outbound","timeToStation":562,"towards":"Pimlico Or Trafalgar Square"}
+{"vehicleId":"LTZ1154","stationName":"Streatham Station","lineId":"159","lineName":"159","direction":"inbound","timeToStation":291,"towards":"null"}
+{"vehicleId":"LTZ1463","stationName":"Windmill Row","lineId":"159","lineName":"159","direction":"outbound","timeToStation":785,"towards":"Parliament Square Or Waterloo"}
+{"vehicleId":"LTZ1625","stationName":"Holmewood Road","lineId":"159","lineName":"159","direction":"inbound","timeToStation":779,"towards":"Clapham Park, Streatham Common Or Tooting"}

@@ -98,7 +98,7 @@ default_args = {
 with DAG(
     dag_id='london_bus_extraction_v1',
     default_args=default_args,
-    schedule='@daily', 
+    schedule=None, #none
     catchup=False
 ) as dag:
     with TaskGroup('extraction_group') as extraction_group:    
