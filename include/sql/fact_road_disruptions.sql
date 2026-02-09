@@ -1,3 +1,6 @@
+CREATE EXTENSION IF NOT EXISTS postgis;
+
+
 CREATE TABLE IF NOT EXISTS fact_road_disruptions (
     -- Khóa chính tự tăng (Surrogate Key)
     surrogate_key SERIAL PRIMARY KEY,

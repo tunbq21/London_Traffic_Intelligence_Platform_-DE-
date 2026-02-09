@@ -8,3 +8,7 @@ apache-airflow-providers-postgres
 apache-airflow-providers-microsoft-azure
 
 azure-identity
+
+apache-airflow-providers-slack
+
+apache-airflow-providers-http
