@@ -207,13 +207,13 @@ with DAG(
     )
 
     create_table_filess_task = PythonOperator(
-        task_id='create_road_table_filess',
+        task_id='create_road_table_azure',
         python_callable=create_road_table_azure,
     )
 
     # Task load data lên Filess
     load_data_filess_task = PythonOperator(
-        task_id='load_csv_to_filess_postgres',
+        task_id='load_csv_to_azure_postgres',
         python_callable=load_csv_to_azure_postgres,
     )
 
