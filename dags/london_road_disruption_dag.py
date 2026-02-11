@@ -96,7 +96,6 @@ def load_csv_to_postgres(**kwargs):
 
     pg_hook = PostgresHook(postgres_conn_id='local_postgres')
     
-    # Sử dụng lệnh COPY với tùy chọn NULL AS ''
     copy_sql = """
         COPY london_road_disruptions(id, category, severity, location, comments, startDateTime, endDateTime, lastModDateTime, point)
         FROM STDIN WITH (FORMAT CSV, HEADER, DELIMITER ',', NULL '');
@@ -108,7 +107,6 @@ def load_csv_to_postgres(**kwargs):
 
 def create_road_table_azure():
     try:
-        # Lấy link từ biến môi trường
         conn_uri = os.getenv('AIRFLOW_CONN_AZURE_POSTGRES_CONN')
         conn = psycopg2.connect(conn_uri)
         
@@ -140,7 +138,6 @@ def create_road_table_azure():
 
 def load_csv_to_azure_postgres(**kwargs):
     ti = kwargs['ti']
-    # Lấy đường dẫn file CSV từ task trước đó trong group
     csv_file_path = ti.xcom_pull(task_ids='extraction_group.jsonl_to_csv')
     
     if not csv_file_path:
@@ -153,7 +150,6 @@ def load_csv_to_azure_postgres(**kwargs):
         
         cur = conn.cursor()
         
-        # Mở file CSV và sử dụng lệnh copy_expert (hoặc copy_from)
         with open(csv_file_path, 'r', encoding='utf-8') as f:
             copy_sql = """
                 COPY london_road_disruptions(id, category, severity, location, comments, startDateTime, endDateTime, lastModDateTime, point)
@@ -211,7 +207,6 @@ with DAG(
         python_callable=create_road_table_azure,
     )
 
-    # Task load data lên Filess
     load_data_filess_task = PythonOperator(
         task_id='load_csv_to_azure_postgres',
         python_callable=load_csv_to_azure_postgres,
