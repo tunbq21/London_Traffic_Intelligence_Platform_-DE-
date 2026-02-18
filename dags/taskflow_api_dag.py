@@ -119,12 +119,10 @@ def london_road_pipeline():
             cur.close()
             conn.close()
 
-    # --- THIẾT LẬP LUỒNG CHÍNH (MAIN FLOW) ---
     # 1. Chạy song song 2 task tạo bảng
     setup_tables = [create_local_table(), create_azure_table()]
     
     # 2. Chạy extraction (csv_file là kết quả cuối cùng của TaskGroup)
-    # Lưu ý: Trong TaskFlow, csv_file đại diện cho output của task convert_to_csv
     
     # Thiết lập phụ thuộc
     setup_tables >> extraction_prep
